@@ -46,6 +46,7 @@ def compute_score(json_line, my_dic):
         score = 0
     return score
 
+
 def lines(fp):
     """
 
